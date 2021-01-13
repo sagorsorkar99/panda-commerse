@@ -1,0 +1,10 @@
+html{
+    scroll-behavior: smooth;
+}
+.carousel-item{
+    background-color: rgb(255, 228, 196);
+    border-radius: 1em;
+}
+.panda-img{
+    width: 100px;
+}
